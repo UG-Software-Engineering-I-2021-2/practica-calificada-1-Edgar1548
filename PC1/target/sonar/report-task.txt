@@ -1,0 +1,7 @@
+organization=ug-software-engineering-i-2021-2
+projectKey={sonarProjectKey}
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.24170
+dashboardUrl=https://sonarcloud.io/dashboard?id=%7BsonarProjectKey%7D
+ceTaskId=AXykQ_NUlhuz48g5VXuF
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXykQ_NUlhuz48g5VXuF
