@@ -1,7 +1,7 @@
 GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
 practica-calificada-1-Edgar1548,com.pc,LibroPrestado,30,0,2,0,9,0,7,0,6,0
 practica-calificada-1-Edgar1548,com.pc,UserBioAlert,14,10,0,0,6,4,4,2,4,2
-practica-calificada-1-Edgar1548,com.pc,Libro,11,75,4,2,3,28,5,13,2,13
+practica-calificada-1-Edgar1548,com.pc,Libro,3,70,0,0,1,28,1,14,1,14
 practica-calificada-1-Edgar1548,com.pc,Libroviejo,13,0,0,0,5,0,3,0,3,0
 practica-calificada-1-Edgar1548,com.pc,Lector,17,13,0,0,7,5,5,2,5,2
 practica-calificada-1-Edgar1548,com.pc,BioAlert,47,11,4,0,7,3,3,2,1,2

@@ -14,9 +14,6 @@ public class Libro {
     }
 
     public void setEstado(String estado) {
-        if ( (!estado.equals("reservada")) && (!estado.equals("prestada")) && (!estado.equals("retraso"))){
-            return ;
-        }
         this.estado = estado;
     }
 
