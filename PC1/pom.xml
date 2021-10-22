@@ -4,12 +4,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.pc</groupId>
+    <groupId>org.example</groupId>
     <artifactId>practica-calificada-1-Edgar1548</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <sonar.projectKey>{sonarProjectKey}</sonar.projectKey>
+        <sonar.projectKey>UG-Software-Engineering-I-2021-2_practica-calificada-1-Edgar1548</sonar.projectKey>
         <sonar.organization>ug-software-engineering-i-2021-2</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <maven.compiler.source>1.7</maven.compiler.source>

@@ -1,7 +1,7 @@
 organization=ug-software-engineering-i-2021-2
-projectKey={sonarProjectKey}
+projectKey=UG-Software-Engineering-I-2021-2_practica-calificada-1-Edgar1548
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.24170
-dashboardUrl=https://sonarcloud.io/dashboard?id=%7BsonarProjectKey%7D
-ceTaskId=AXykQ_NUlhuz48g5VXuF
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXykQ_NUlhuz48g5VXuF
+dashboardUrl=https://sonarcloud.io/dashboard?id=UG-Software-Engineering-I-2021-2_practica-calificada-1-Edgar1548
+ceTaskId=AXymECaVC24cFpFL580V
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXymECaVC24cFpFL580V
